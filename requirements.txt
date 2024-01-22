@@ -1,0 +1,3 @@
+#  Biblioteci instalate cu pip install
+Python tkinter
+Python Imaging Library (PIL)
